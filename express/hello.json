@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Learn Nodejs",
+    "description": "took a brif idea about nodjs and express"
+  },
+  {
+    "title": "Learning http methods",
+    "description": "took a brif idea about http methods: POST, GET, PUT, PATCH, DELETE"
+  }
+]
